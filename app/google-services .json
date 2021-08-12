@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842413216018",
+    "project_id": "persionalchatapp",
+    "storage_bucket": "persionalchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842413216018:android:9ad7bc500622c9673c63cb",
+        "android_client_info": {
+          "package_name": "com.mianasad.personalChatApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842413216018-ealbru4uok9ijoqgvtcihujb7alb2b0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAcXFnKZvoZ-ND-W23SuevlWwbLFaLLow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842413216018-ealbru4uok9ijoqgvtcihujb7alb2b0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
